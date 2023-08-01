@@ -1,0 +1,48 @@
+﻿body {
+}
+.form-label
+{
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.T {
+    color: Blue;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.S
+{
+    background-color:hsl(0, 70%, 100%, 0.70);
+    height:330px;
+    border-radius:15px;
+ }
+/*nav ul {
+    width: 97%;
+    height: 45px;
+    background-image: linear-gradient(GREY, WHITE);
+    list-style: NONE;
+    border: 1px solid black;
+    margin: 0;
+}
+
+nav ul li {
+    float: left;
+    width: auto;
+    height: 45px;*/
+    /* padding: 12px; */
+/*}
+
+nav ul li a {
+        line-height: 45px;
+        padding: 12px 15px;
+        color: black;
+        text-decoration: none;
+        font-size: 17px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul li a:hover {*/
+/* background: rgb(226, 15, 15); */
+/*color: #f0f1f5;
+}*/
